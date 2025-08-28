@@ -51,7 +51,7 @@ class student{
             student student1 = new student("Tanya", "S11330", "Computer Science", "2024-01-15", "4 years", 500000.00, "tanya.mehta@gmail.com");
             student1.displayStudentDetails();
 
-            student student2 = new student("Raj", "S10122", "Mechanical Engineering", "2024-02-20", "4 years", 450000.00, "raj@gmail.com");
+            student student2 = new student("Raj", "S10122", "Mechanical Engineering", "2024-02-20", "4 years", 450000.00, "rajaryan@gmail.com");
             student2.displayStudentDetails();
 
         }
