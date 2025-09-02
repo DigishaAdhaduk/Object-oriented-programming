@@ -31,7 +31,7 @@ class ShoppingCart {
         for (Product p : cart) {
             total += p.getPrice();
         }
-        System.out.println("💰 Total amount: ₹" + total);
+        System.out.println("Total amount: ₹" + total);
     }
 }
 public class ShopApp {
