@@ -23,7 +23,7 @@ class ShoppingCart {
 
     public void addProduct(Product p) {
         cart.add(p);
-        System.out.println("🛒 Added: " + p.getName());
+        System.out.println("Added: " + p.getName());
     }
 
     public void showTotal() {
