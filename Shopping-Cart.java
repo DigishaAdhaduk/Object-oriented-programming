@@ -42,6 +42,6 @@ public class ShopApp {
         ShoppingCart cart = new ShoppingCart();
         cart.addProduct(p1);
         cart.addProduct(p2);
-        cart.showTotal(); // ₹2498
+        cart.showTotal(); 
     }
 }
